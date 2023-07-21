@@ -158,3 +158,5 @@ The Final Score represents the participant's score based on their Best Score ach
 
 To generate a valid submission file:
 The participant should submit a .csv file with exactly 2476 rows and 3 column labeled "COTTON YIELD (Kg per ha), Yield (Pounds/ Harvested Area), Cotton_Price[Dollar/ton]".
+
+c) Competition Link:- https://machinehack.com/hackathons/genpact_google_for_developer_sustainability_hackathon_lets_crack_the_climate_resilience_code/leaderboard
