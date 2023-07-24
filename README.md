@@ -11,8 +11,7 @@ To address these challenges, the hackathon requires participants to focus on dev
 
 **B) About the Dataset:-** Dataset contains following files,
 
-.
-**B1)** **India_soil_rainfall_30years**
+**B1)**  **India_soil_rainfall_30years**
 
 **B2)** **USA_Commodity_prices**
 
