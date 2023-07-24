@@ -1,10 +1,11 @@
 # Predict_Climate_Change_Effects_on_Commodity_Prices-Sustainability_Hackathon-June23
 
+**A) About Hackathon:-**
+
 Genpact, in collaboration with Google for Developers, has launched a global hackathon focused on sustainability and leveraging AI/ML technology to model the impact of climate change and make a meaningful contribution to sustainability. 
 
 The hackathon combines Genpact’s longstanding commitment to sustainability, deep expertise in cutting-edge ML techniques, and strategic partnership with Google Cloud to bring data scientists together from across the world to use technology for the good of our planet
 
-About the Hackathon 
 Given the disruption of production conditions and the rising variability in yield caused by climate change, we firmly believe that technology will play a vital role in providing essential insights to stay ahead of the curve. By proactively anticipating the influence of climate change on commodity yields, we can gain a deeper understanding of its effects on raw material prices, thereby ensuring sustainability and mitigating risks throughout the supply chains. Utilizing these models enables us to optimize procurement processes and implement effective pricing strategies for different commodities.
 
 To address these challenges, the hackathon requires participants to focus on developing ML models that can forecast the effects of climate change on commodity prices.
