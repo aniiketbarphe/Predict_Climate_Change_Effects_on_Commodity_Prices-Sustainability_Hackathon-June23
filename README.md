@@ -301,7 +301,7 @@ d4) The Final Score represents the participant's score based on their Best Score
 
 # Summary
 
-**a) Best Submission Score:-**
+**a) Best Submission Score(Mean Square Error):-**
 
 **1) Public Leaderboard :-**  **13393056.30128**
 
@@ -320,6 +320,6 @@ https://machinehack.com/hackathons/genpact_google_for_developer_sustainability_h
 
 **d) Rank Scored:-**
 
-a) **xx** out of **yyyy** registered participants (**Public Leaderboard**)
+a) **23** out of **4065** registered participants (**Public Leaderboard**)
 
-b) **xx** out of **yyyy** registered participants (**Private Leaderboard**)
+b) **36** out of **4065** registered participants (**Private Leaderboard**)
