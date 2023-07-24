@@ -79,76 +79,146 @@ Test: 2476 x 103
 32) FEBRUARY MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during February.
 
 33) MARCH MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during March.
-APRIL MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during April.
-MAY MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during May.
-JUNE MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during June.
-JULY MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during July.
-AUGUST MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during August.
-SEPTEMBER MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during September.
-OCTOBER MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during October.
-NOVEMBER MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during November.
-DECEMBER MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during December.
-JANUARY WATER DEFICIT (Millimeters): The water deficit in millimeters during January.
-FEBRUARY WATER DEFICIT (Millimeters): The water deficit in millimeters during February.
-MARCH WATER DEFICIT (Millimeters): The water deficit in millimeters during March.
-APRIL WATER DEFICIT (Millimeters): The water deficit in millimeters during April.
-MAY WATER DEFICIT (Millimeters): The water deficit in millimeters during May.
-JUNE WATER DEFICIT (Millimeters): The water deficit in millimeters during June.
-JULY WATER DEFICIT (Millimeters): The water deficit in millimeters during July.
-AUGUST WATER DEFICIT (Millimeters): The water deficit in millimeters during August.
-OCTOBER WATER DEFICIT (Millimeters): The water deficit in millimeters during October.
-NOVEMBER WATER DEFICIT (Millimeters): The water deficit in millimeters during November.
-DECEMBER WATER DEFICIT (Millimeters): The water deficit in millimeters during December.
-JANUARY ACTUAL (Millimeters): The actual water availability in millimeters during January.
-FEBRUARY ACTUAL (Millimeters): The actual water availability in millimeters during February.
-MARCH ACTUAL (Millimeters): The actual water availability in millimeters during March.
-APRIL ACTUAL (Millimeters): The actual water availability in millimeters during April.
-MAY ACTUAL (Millimeters): The actual water availability in millimeters during May.
-JUNE ACTUAL (Millimeters): The actual water availability in millimeters during June.
-JULY ACTUAL (Millimeters): The actual water availability in millimeters during July.
-AUGUST ACTUAL (Millimeters): The actual water availability in millimeters during August.
-SEPTEMBER ACTUAL (Millimeters): The actual water availability in millimeters during September.
-OCTOBER ACTUAL (Millimeters): The actual water availability in millimeters during October.
-NOVEMBER ACTUAL (Millimeters): The actual water availability in millimeters during November.
-DECEMBER ACTUAL (Millimeters): The actual water availability in millimeters during December.
-JANUARY POTENTIAL (Millimeters): The potential water availability in millimeters during January.
-FEBRUARY POTENTIAL (Millimeters): The potential water availability in millimeters during February.
-MARCH POTENTIAL (Millimeters): The potential water availability in millimeters during March.
-APRIL POTENTIAL (Millimeters): The potential water availability in millimeters during April.
-MAY POTENTIAL (Millimeters): The potential water availability in millimeters during May.
-JUNE POTENTIAL (Millimeters): The potential water availability in millimeters during June.
-JULY POTENTIAL (Millimeters): The potential water availability in millimeters during July.
-AUGUST POTENTIAL (Millimeters): The potential water availability in millimeters during August.
-SEPTEMBER POTENTIAL (Millimeters): The potential water availability in millimeters during September.
-OCTOBER POTENTIAL (Millimeters): The potential water availability in millimeters during October.
-NOVEMBER POTENTIAL (Millimeters): The potential water availability in millimeters during November.
-DECEMBER POTENTIAL (Millimeters): The potential water availability in millimeters during December.
-TOTAL AREA (1000 ha): The total area of land in thousands of hectares.
-FOREST AREA (1000 ha): The area of land covered by forests in thousands of hectares.
-BARREN AND UNCULTIVABLE LAND AREA (1000 ha): The area of barren and uncultivable land in thousands of hectares.
-LAND PUT TO NONAGRICULTURAL USE AREA (1000 ha): The area of land used for non-agricultural purposes in thousands of hectares.
-CULTIVABLE WASTE LAND AREA (1000 ha): The area of cultivable waste land in thousands of hectares.
-PERMANENT PASTURES AREA (1000 ha): The area of land used for permanent pastures in thousands of hectares.
-OTHER FALLOW AREA (1000 ha): The area of land under other fallow conditions in thousands of hectares.
-CURRENT FALLOW AREA (1000 ha): The area of land under current fallow conditions in thousands of hectares.
-NET CROPPED AREA (1000 ha): The net area of land used for crop cultivation in thousands of hectares.
-GROSS CROPPED AREA (1000 ha): The gross area of land used for crop cultivation in thousands of hectares.
-CROPPING INTENSITY (Percent): The percentage of cropped area to net cropped area.
-NITROGEN CONSUMPTION (tons): The amount of nitrogen fertilizer consumed in tons.
-NITROGEN SHARE IN NPK (Percent): The percentage of nitrogen in the total NPK (nitrogen, phosphorus, and potassium) fertilizer.
-NITROGEN PER HA OF NCA (Kg per ha): The amount of nitrogen fertilizer used per hectare of net cropped area in kilograms.
-NITROGEN PER HA OF GCA (Kg per ha): The amount of nitrogen fertilizer used per hectare of gross cropped area in kilograms.
-PHOSPHATE CONSUMPTION (tons): The amount of phosphate fertilizer consumed in tons.
-PHOSPHATE SHARE IN NPK (Percent): The percentage of phosphate in the total NPK (nitrogen, phosphorus, and potassium) fertilizer.
-PHOSPHATE PER HA OF NCA (Kg per ha): The amount of phosphate fertilizer used per hectare of net cropped area in kilograms.
-PHOSPHATE PER HA OF GCA (Kg per ha): The amount of phosphate fertilizer used per hectare of gross cropped area in kilograms.
-POTASH CONSUMPTION (tons): The amount of potash fertilizer consumed in tons.
-POTASH SHARE IN NPK (Percent): The percentage of potash in the total NPK (nitrogen, phosphorus, and potassium) fertilizer.
-POTASH PER HA OF NCA (Kg per ha): The amount of potash fertilizer used per hectare of net cropped area in kilograms.
-POTASH PER HA OF GCA (Kg per ha): The amount of potash fertilizer used per hectare of gross cropped area in kilograms.
-OTHER FERTILIZER CONSUMPTION (tons): The amount of other fertilizers (besides nitrogen, phosphate, and potash) consumed in tons.
-OTHER FERTILIZER PER HA OF NCA (Kg per ha): The amount of other fertilizers used per hectare of net cropped area in kilograms.
-OTHER FERTILIZER PER HA OF GCA (Kg per ha): The amount of other fertilizers used per hectare of gross cropped area in kilograms.
+
+34) APRIL MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during April.
+
+35) MAY MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during May.
+
+36) JUNE MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during June.
+
+37) JULY MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during July.
+
+38) AUGUST MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during August.
+
+39) SEPTEMBER MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during September.
+
+40) OCTOBER MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during October.
+
+41) NOVEMBER MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during November.
+
+42) DECEMBER MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during December.
+
+43) JANUARY WATER DEFICIT (Millimeters): The water deficit in millimeters during January.
+
+44) FEBRUARY WATER DEFICIT (Millimeters): The water deficit in millimeters during February.
+
+45) MARCH WATER DEFICIT (Millimeters): The water deficit in millimeters during March.
+
+46) APRIL WATER DEFICIT (Millimeters): The water deficit in millimeters during April.
+
+47) MAY WATER DEFICIT (Millimeters): The water deficit in millimeters during May.
+
+48) JUNE WATER DEFICIT (Millimeters): The water deficit in millimeters during June.
+
+49) JULY WATER DEFICIT (Millimeters): The water deficit in millimeters during July.
+
+50) AUGUST WATER DEFICIT (Millimeters): The water deficit in millimeters during August.
+
+51) OCTOBER WATER DEFICIT (Millimeters): The water deficit in millimeters during October.
+
+52) NOVEMBER WATER DEFICIT (Millimeters): The water deficit in millimeters during November.
+
+53) DECEMBER WATER DEFICIT (Millimeters): The water deficit in millimeters during December.
+
+54) JANUARY ACTUAL (Millimeters): The actual water availability in millimeters during January.
+
+55) FEBRUARY ACTUAL (Millimeters): The actual water availability in millimeters during February.
+
+56) MARCH ACTUAL (Millimeters): The actual water availability in millimeters during March.
+
+57) APRIL ACTUAL (Millimeters): The actual water availability in millimeters during April.
+
+58) MAY ACTUAL (Millimeters): The actual water availability in millimeters during May.
+
+59) JUNE ACTUAL (Millimeters): The actual water availability in millimeters during June.
+
+60) JULY ACTUAL (Millimeters): The actual water availability in millimeters during July.
+
+61) AUGUST ACTUAL (Millimeters): The actual water availability in millimeters during August.
+
+62) SEPTEMBER ACTUAL (Millimeters): The actual water availability in millimeters during September.
+
+63) OCTOBER ACTUAL (Millimeters): The actual water availability in millimeters during October.
+
+64) NOVEMBER ACTUAL (Millimeters): The actual water availability in millimeters during November.
+
+65) DECEMBER ACTUAL (Millimeters): The actual water availability in millimeters during December.
+
+66) JANUARY POTENTIAL (Millimeters): The potential water availability in millimeters during January.
+
+67) FEBRUARY POTENTIAL (Millimeters): The potential water availability in millimeters during February.
+
+68) MARCH POTENTIAL (Millimeters): The potential water availability in millimeters during March.
+
+69) APRIL POTENTIAL (Millimeters): The potential water availability in millimeters during April.
+
+70) MAY POTENTIAL (Millimeters): The potential water availability in millimeters during May.
+
+71) JUNE POTENTIAL (Millimeters): The potential water availability in millimeters during June.
+
+72) JULY POTENTIAL (Millimeters): The potential water availability in millimeters during July.
+
+73) AUGUST POTENTIAL (Millimeters): The potential water availability in millimeters during August.
+
+74) SEPTEMBER POTENTIAL (Millimeters): The potential water availability in millimeters during September.
+
+75) OCTOBER POTENTIAL (Millimeters): The potential water availability in millimeters during October.
+
+76) NOVEMBER POTENTIAL (Millimeters): The potential water availability in millimeters during November.
+
+77) DECEMBER POTENTIAL (Millimeters): The potential water availability in millimeters during December.
+
+78) TOTAL AREA (1000 ha): The total area of land in thousands of hectares.
+
+79) FOREST AREA (1000 ha): The area of land covered by forests in thousands of hectares.
+
+80) BARREN AND UNCULTIVABLE LAND AREA (1000 ha): The area of barren and uncultivable land in thousands of hectares.
+
+81) LAND PUT TO NONAGRICULTURAL USE AREA (1000 ha): The area of land used for non-agricultural purposes in thousands of hectares.
+
+82) CULTIVABLE WASTE LAND AREA (1000 ha): The area of cultivable waste land in thousands of hectares.
+
+83) PERMANENT PASTURES AREA (1000 ha): The area of land used for permanent pastures in thousands of hectares.
+
+84) OTHER FALLOW AREA (1000 ha): The area of land under other fallow conditions in thousands of hectares.
+
+85) CURRENT FALLOW AREA (1000 ha): The area of land under current fallow conditions in thousands of hectares.
+
+86) NET CROPPED AREA (1000 ha): The net area of land used for crop cultivation in thousands of hectares.
+
+87) GROSS CROPPED AREA (1000 ha): The gross area of land used for crop cultivation in thousands of hectares.
+
+88) CROPPING INTENSITY (Percent): The percentage of cropped area to net cropped area.
+
+89) NITROGEN CONSUMPTION (tons): The amount of nitrogen fertilizer consumed in tons.
+
+90) NITROGEN SHARE IN NPK (Percent): The percentage of nitrogen in the total NPK (nitrogen, phosphorus, and potassium) fertilizer.
+
+91) NITROGEN PER HA OF NCA (Kg per ha): The amount of nitrogen fertilizer used per hectare of net cropped area in kilograms.
+
+92) NITROGEN PER HA OF GCA (Kg per ha): The amount of nitrogen fertilizer used per hectare of gross cropped area in kilograms.
+
+93) PHOSPHATE CONSUMPTION (tons): The amount of phosphate fertilizer consumed in tons.
+
+94) PHOSPHATE SHARE IN NPK (Percent): The percentage of phosphate in the total NPK (nitrogen, phosphorus, and potassium) fertilizer.
+
+95) PHOSPHATE PER HA OF NCA (Kg per ha): The amount of phosphate fertilizer used per hectare of net cropped area in kilograms.
+
+96) PHOSPHATE PER HA OF GCA (Kg per ha): The amount of phosphate fertilizer used per hectare of gross cropped area in kilograms.
+
+97) POTASH CONSUMPTION (tons): The amount of potash fertilizer consumed in tons.
+
+98) POTASH SHARE IN NPK (Percent): The percentage of potash in the total NPK (nitrogen, phosphorus, and potassium) fertilizer.
+
+99) POTASH PER HA OF NCA (Kg per ha): The amount of potash fertilizer used per hectare of net cropped area in kilograms.
+
+100) POTASH PER HA OF GCA (Kg per ha): The amount of potash fertilizer used per hectare of gross cropped area in kilograms.
+
+101) OTHER FERTILIZER CONSUMPTION (tons): The amount of other fertilizers (besides nitrogen, phosphate, and potash) consumed in tons.
+
+102) OTHER FERTILIZER PER HA OF NCA (Kg per ha): The amount of other fertilizers used per hectare of net cropped area in kilograms.
+
+103) OTHER FERTILIZER PER HA OF GCA (Kg per ha): The amount of other fertilizers used per hectare of gross cropped area in kilograms.
  
 
 USA Cotton Data:
