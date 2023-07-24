@@ -9,11 +9,17 @@ Given the disruption of production conditions and the rising variability in yiel
 
 To address these challenges, the hackathon requires participants to focus on developing ML models that can forecast the effects of climate change on commodity prices.
 
-**B) About the Dataset:-**
-.India Data: 
+**B) About the Dataset:-** Dataset contains following files,
+.
+**B1)** **India_soil_rainfall_30years**
 
-Train: 4705 x103
-Test: 2476 x 103
+**B2)** **USA_Commodity_prices**
+
+**B3)** **India Data:-**
+
+**B3.1)** Train: 4705 x103
+
+**B3.2)** Test: 2476 x 103
 
 1) Year: The year of the data record.
 
@@ -221,10 +227,11 @@ Test: 2476 x 103
 
 103) OTHER FERTILIZER PER HA OF GCA (Kg per ha): The amount of other fertilizers used per hectare of gross cropped area in kilograms.
  
+**B4)** **USA Cotton Data:-**
 
-USA Cotton Data:
-Train: 560 x 25
-Test:  400 x 25
+**B4.1)** Train: 560 x 25
+
+**B4.2)** Test:  400 x 25
 
 1) Year: The year of the data observation.
 
