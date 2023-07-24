@@ -9,6 +9,7 @@ Given the disruption of production conditions and the rising variability in yiel
 
 To address these challenges, the hackathon requires participants to focus on developing ML models that can forecast the effects of climate change on commodity prices.
 
+**B) About the Dataset:-**
 .India Data: 
 
 Train: 4705 x103
@@ -225,40 +226,84 @@ USA Cotton Data:
 Train: 560 x 25
 Test:  400 x 25
 
-Year: The year of the data observation.
-State: The name of the state where the data was recorded.
-Planted (1000 Acres): The area in thousands of acres that was planted with crops.
-Harvested (1000 Acres): The area in thousands of acres that was harvested for crops.
-Yield (Pounds/ Harvested Area): The average yield of crops in pounds per harvested area.
-Average Temperature Value: The average temperature recorded during the specified period.
-Average Temperature Anomaly: The deviation from the long-term average temperature for the specified period.
-Maximum Temperature Value: The highest temperature recorded during the specified period.
-Maximum Temperature Anomaly: The deviation from the long-term average maximum temperature for the specified period.
-Minimum Temperature Value: The lowest temperature recorded during the specified period.
-Minimum Temperature Anomaly: The deviation from the long-term average minimum temperature for the specified period.
-Precipitation Value: The total amount of precipitation (rainfall) recorded during the specified period.
-Precipitation Anomaly: The deviation from the long-term average precipitation for the specified period.
-Cooling Degree Days Value: The number of cooling degree days recorded during the specified period.
-Cooling Degree Days Anomaly: The deviation from the long-term average cooling degree days for the specified period.
-Heating Degree Days Value: The number of heating degree days recorded during the specified period.
-Heating Degree Days Anomaly: The deviation from the long-term average heating degree days for the specified period.
-Palmer Drought Severity Index (PDSI) Value: The value of the Palmer Drought Severity Index, which indicates the severity of drought conditions.
-Palmer Drought Severity Index (PDSI) Anomaly: The deviation from the long-term average Palmer Drought Severity Index for the specified period.
-Palmer Hydrological Drought Index (PHDI) Value: The value of the Palmer Hydrological Drought Index, which indicates hydrological drought conditions.
-Palmer Hydrological Drought Index (PHDI) Anomaly: The deviation from the long-term average Palmer Hydrological Drought Index for the specified period.
-Palmer Modified Drought Index (PMDI) Value: The value of the Palmer Modified Drought Index, which indicates modified drought conditions.
-Palmer Modified Drought Index (PMDI) Anomaly: The deviation from the long-term average Palmer Modified Drought Index for the specified period.
-Palmer Z-Index Value: The value of the Palmer Z-Index, which indicates drought conditions based on soil moisture.
-Palmer Z-Index Anomaly: The deviation from the long-term average Palmer Z-Index for the specified period.
+1) Year: The year of the data observation.
 
-What is the metric in this competition? How is the leaderboard calculated?
-The submission will be evaluated using the Mean Square Error. One can use sklearn.metrics.mean_squared_error to calculate the same.
-The competition has both private and public leaderboards.
-The public leaderboard is calculated based on the evaluation of 30% of the test data.
-The private leaderboard will be made available at the end of the hackathon and will be evaluated using 100% of the test data.
-The Final Score represents the participant's score based on their Best Score achieved on the public leaderboard.
+2) State: The name of the state where the data was recorded.
 
-To generate a valid submission file:
-The participant should submit a .csv file with exactly 2476 rows and 3 column labeled "COTTON YIELD (Kg per ha), Yield (Pounds/ Harvested Area), Cotton_Price[Dollar/ton]".
+3) Planted (1000 Acres): The area in thousands of acres that was planted with crops.
 
-c) Competition Link:- https://machinehack.com/hackathons/genpact_google_for_developer_sustainability_hackathon_lets_crack_the_climate_resilience_code/leaderboard
+4) Harvested (1000 Acres): The area in thousands of acres that was harvested for crops.
+
+5) Yield (Pounds/ Harvested Area): The average yield of crops in pounds per harvested area.
+
+6) Average Temperature Value: The average temperature recorded during the specified period.
+
+7) Average Temperature Anomaly: The deviation from the long-term average temperature for the specified period.
+
+8) Maximum Temperature Value: The highest temperature recorded during the specified period.
+
+9) Maximum Temperature Anomaly: The deviation from the long-term average maximum temperature for the specified period.
+
+10) Minimum Temperature Value: The lowest temperature recorded during the specified period.
+
+11) Minimum Temperature Anomaly: The deviation from the long-term average minimum temperature for the specified period.
+
+12) Precipitation Value: The total amount of precipitation (rainfall) recorded during the specified period.
+
+13) Precipitation Anomaly: The deviation from the long-term average precipitation for the specified period.
+
+14) Cooling Degree Days Value: The number of cooling degree days recorded during the specified period.
+
+15) Cooling Degree Days Anomaly: The deviation from the long-term average cooling degree days for the specified period.
+
+16) Heating Degree Days Value: The number of heating degree days recorded during the specified period.
+
+17) Heating Degree Days Anomaly: The deviation from the long-term average heating degree days for the specified period.
+
+18) Palmer Drought Severity Index (PDSI) Value: The value of the Palmer Drought Severity Index, which indicates the severity of drought conditions.
+
+19) Palmer Drought Severity Index (PDSI) Anomaly: The deviation from the long-term average Palmer Drought Severity Index for the specified period.
+
+20) Palmer Hydrological Drought Index (PHDI) Value: The value of the Palmer Hydrological Drought Index, which indicates hydrological drought conditions.
+
+21) Palmer Hydrological Drought Index (PHDI) Anomaly: The deviation from the long-term average Palmer Hydrological Drought Index for the specified period.
+
+22) Palmer Modified Drought Index (PMDI) Value: The value of the Palmer Modified Drought Index, which indicates modified drought conditions.
+
+23) Palmer Modified Drought Index (PMDI) Anomaly: The deviation from the long-term average Palmer Modified Drought Index for the specified period.
+
+24) Palmer Z-Index Value: The value of the Palmer Z-Index, which indicates drought conditions based on soil moisture.
+
+25) Palmer Z-Index Anomaly: The deviation from the long-term average Palmer Z-Index for the specified period.
+
+**C) Evaluation metric:-**  The submission will be evaluated using the Mean Square Error. 
+
+**D) Public and Private Split:-** 
+
+d1) The competition has both private and public leaderboards.
+
+d2) The public leaderboard is calculated based on the evaluation of 30% of the test data.
+
+d3) The private leaderboard will be made available at the end of the hackathon and will be evaluated using 100% of the test data.
+
+d4) The Final Score represents the participant's score based on their Best Score achieved on the public leaderboard.
+
+# Summary
+
+**a) Best Submission Score:-**
+
+**1) Public Leaderboard :-**
+
+**2) Private Leaderboard :-**
+
+**b) Best Model:-** 
+
+**c) Competition Link:-**
+
+https://machinehack.com/hackathons/genpact_google_for_developer_sustainability_hackathon_lets_crack_the_climate_resilience_code/leaderboard
+
+**d) Rank Scored:-**
+
+a) **xx** out of **yyyy** registered participants (**Public Leaderboard**)
+
+b) **xx** out of **yyyy** registered participants (**Private Leaderboard**)
