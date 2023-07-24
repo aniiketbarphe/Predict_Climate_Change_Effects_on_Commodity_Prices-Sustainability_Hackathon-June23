@@ -2,10 +2,6 @@
 
 ![Hackathon-Image2](https://github.com/aniiketbarphe/Predict_Climate_Change_Effects_on_Commodity_Prices-Sustainability_Hackathon-June23/assets/84449238/5f3271a2-bec2-4505-b842-909d12088593)
 
-![GG-Hackathon_02](https://github.com/aniiketbarphe/Predict_Climate_Change_Effects_on_Commodity_Prices-Sustainability_Hackathon-June23/assets/84449238/15f6395f-75f3-4d9e-836d-ec1bf754fa42)
-
-![IMG3](https://github.com/aniiketbarphe/Predict_Climate_Change_Effects_on_Commodity_Prices-Sustainability_Hackathon-June23/assets/84449238/49b59010-eb5b-4f74-9453-18fe61e0be51)
-
 
 **A) About Hackathon:-**
 
