@@ -14,39 +14,71 @@ To address these challenges, the hackathon requires participants to focus on dev
 Train: 4705 x103
 Test: 2476 x 103
 
-Year: The year of the data record.
-State Name: The name of the state where the data is recorded.
-Dist Name: The name of the district within the state where the data is recorded.
-COTTON AREA (1000 ha): The area of land used for cotton cultivation in thousands of hectares.
-COTTON PRODUCTION (1000 tons): The amount of cotton produced in thousands of tons.
-COTTON YIELD (Kg per ha): The yield of cotton per hectare in kilograms.
-JANUARY PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during January.
-FEBRUARY PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during February.
-MARCH PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during March.
-APRIL PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during April.
-MAY PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during May.
-JUNE PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during June.
-JULY PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during July.
-AUGUST PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during August.
-SEPTEMBER PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during September.
-OCTOBER PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during October.
-NOVEMBER PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during November.
-DECEMBER PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during December.
-JANUARY MINIMUM (Centigrade): The minimum temperature in degrees Celsius during January.
-FEBRUARY MINIMUM (Centigrade): The minimum temperature in degrees Celsius during February.
-MARCH MINIMUM (Centigrade): The minimum temperature in degrees Celsius during March.
-APRIL MINIMUM (Centigrade): The minimum temperature in degrees Celsius during April.
-MAY MINIMUM (Centigrade): The minimum temperature in degrees Celsius during May.
-JUNE MINIMUM (Centigrade): The minimum temperature in degrees Celsius during June.
-JULY MINIMUM (Centigrade): The minimum temperature in degrees Celsius during July.
-AUGUST MINIMUM (Centigrade): The minimum temperature in degrees Celsius during August.
-SEPTEMBER MINIMUM (Centigrade): The minimum temperature in degrees Celsius during September.
-OCTOBER MINIMUM (Centigrade): The minimum temperature in degrees Celsius during October.
-NOVEMBER MINIMUM (Centigrade): The minimum temperature in degrees Celsius during November.
-DECEMBER MINIMUM (Centigrade): The minimum temperature in degrees Celsius during December.
-JANUARY MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during January.
-FEBRUARY MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during February.
-MARCH MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during March.
+1) Year: The year of the data record.
+
+2) State Name: The name of the state where the data is recorded.
+
+3) Dist Name: The name of the district within the state where the data is recorded.
+
+4) COTTON AREA (1000 ha): The area of land used for cotton cultivation in thousands of hectares.
+
+5) COTTON PRODUCTION (1000 tons): The amount of cotton produced in thousands of tons.
+
+6) COTTON YIELD (Kg per ha): The yield of cotton per hectare in kilograms.
+
+7) JANUARY PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during January.
+
+8) FEBRUARY PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during February.
+
+9) MARCH PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during March.
+
+10) APRIL PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during April.
+
+11) MAY PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during May.
+
+12) JUNE PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during June.
+
+13) JULY PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during July.
+
+14) AUGUST PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during August.
+
+15) SEPTEMBER PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during September.
+
+16) OCTOBER PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during October.
+
+17) NOVEMBER PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during November.
+
+18) DECEMBER PRECIPITATION (Millimeters): The precipitation (rainfall) in millimeters during December.
+
+19) JANUARY MINIMUM (Centigrade): The minimum temperature in degrees Celsius during January.
+
+20) FEBRUARY MINIMUM (Centigrade): The minimum temperature in degrees Celsius during February.
+
+21) MARCH MINIMUM (Centigrade): The minimum temperature in degrees Celsius during March.
+
+22) APRIL MINIMUM (Centigrade): The minimum temperature in degrees Celsius during April.
+
+23) MAY MINIMUM (Centigrade): The minimum temperature in degrees Celsius during May.
+
+24) JUNE MINIMUM (Centigrade): The minimum temperature in degrees Celsius during June.
+
+25) JULY MINIMUM (Centigrade): The minimum temperature in degrees Celsius during July.
+
+26) AUGUST MINIMUM (Centigrade): The minimum temperature in degrees Celsius during August.
+
+27) SEPTEMBER MINIMUM (Centigrade): The minimum temperature in degrees Celsius during September.
+
+28) OCTOBER MINIMUM (Centigrade): The minimum temperature in degrees Celsius during October.
+
+29) NOVEMBER MINIMUM (Centigrade): The minimum temperature in degrees Celsius during November.
+
+30) DECEMBER MINIMUM (Centigrade): The minimum temperature in degrees Celsius during December.
+
+31) JANUARY MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during January.
+
+32) FEBRUARY MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during February.
+
+33) MARCH MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during March.
 APRIL MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during April.
 MAY MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during May.
 JUNE MAXIMUM (Centigrade): The maximum temperature in degrees Celsius during June.
